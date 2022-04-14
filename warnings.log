@@ -1,0 +1,1804 @@
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\xgboost\compat.py:36: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:tensorflow:5 out of the last 4309 calls to <function Model.make_train_function.<locals>.train_function at 0x000001A7596C23A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_train_function.<locals>.train_function at 0x000001A765C3B9D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:tensorflow:5 out of the last 20 calls to <function Model.make_test_function.<locals>.test_function at 0x000001A70D78B9D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:tensorflow:6 out of the last 22 calls to <function Model.make_test_function.<locals>.test_function at 0x000001A7724521F0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
+WARNING:py.warnings:C:\Users\Bhao\Anaconda3\envs\plotlyenv\lib\site-packages\scalecast\Forecaster.py:201: FutureWarning: The default dtype for empty Series will be 'object' instead of 'float64' in a future version. Specify a dtype explicitly to silence this warning.
+  self.future_dates = pd.Series([])
+
